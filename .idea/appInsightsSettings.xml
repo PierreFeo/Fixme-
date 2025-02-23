@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.d1zzy.fixme" />
+                  <option name="mobileSdkAppId" value="1:410413497094:android:6cff017859cbca4aeabc87" />
+                  <option name="projectId" value="fixmeapp-3062c" />
+                  <option name="projectNumber" value="410413497094" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

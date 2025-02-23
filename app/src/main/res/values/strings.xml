@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Fixme</string>
+    <string name="no_habits_message">Добавьте первую привычку!</string>
+    <string name="add_habit">Добавить привычку</string>
+    <string name="habit_name">Название привычки</string>
+    <string name="cost_per_unit">Стоимость за раз (руб)</string>
+    <string name="time_per_unit">Время на привычку (минут)</string>
+    <string name="frequency">Раз в день</string>
+    <string name="save">Сохранить</string>
 </resources>
